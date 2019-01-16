@@ -379,18 +379,3 @@ a:hover, a:focus, a:active {
 .main_title{
   color: #ffffff !important;
 }
-
-#rcorners3 {
-  border-radius: 50%;
-  background: #73AD21;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
-}
-
-#me{
-    height: 20%;
-    webkit-transform: rotate(90deg) !important;
-    -ms-transform: rotate(90deg) !important;
-    transform: rotate(90deg) !important;
-}
