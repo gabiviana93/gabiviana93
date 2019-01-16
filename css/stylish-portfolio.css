@@ -387,3 +387,10 @@ a:hover, a:focus, a:active {
   width: 200px;
   height: 150px;
 }
+
+#me{
+    height: 20%;
+    webkit-transform: rotate(90deg) !important;
+    -ms-transform: rotate(90deg) !important;
+    transform: rotate(90deg) !important;
+}
